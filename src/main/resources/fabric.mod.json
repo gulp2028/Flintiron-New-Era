@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"name.modid.FlintironNewEra"
+          "name.FlintironNewEra"
 		],
 		"fabric-datagen": [
-			"name.modid.FlintironNewEraDataGenerator"
+          "name.FlintironNewEraDataGenerator"
 		]
 	},
 	"mixins": [
